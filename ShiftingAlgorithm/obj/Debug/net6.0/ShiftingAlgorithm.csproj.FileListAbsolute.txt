@@ -1,0 +1,15 @@
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\bin\Debug\net6.0\ShiftingAlgorithm.exe
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\bin\Debug\net6.0\ShiftingAlgorithm.deps.json
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\bin\Debug\net6.0\ShiftingAlgorithm.runtimeconfig.json
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\bin\Debug\net6.0\ShiftingAlgorithm.dll
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\bin\Debug\net6.0\ShiftingAlgorithm.pdb
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.csproj.AssemblyReference.cache
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.AssemblyInfo.cs
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.dll
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\refint\ShiftingAlgorithm.dll
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.pdb
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ShiftingAlgorithm.genruntimeconfig.cache
+C:\Users\mikel\source\repos\Shifter\ShiftingAlgorithm\obj\Debug\net6.0\ref\ShiftingAlgorithm.dll
