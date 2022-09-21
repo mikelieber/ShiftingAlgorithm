@@ -1,4 +1,4 @@
-﻿int[] values = new [] { 9, 10, 11, 1, 2, 3, 4, 5, 6, 7, 8 };
+﻿int[] values = new [] { 4, 5, 6, 1, 2, 3 };
 
 Console.WriteLine("Before: {0}", string.Join(" ", values));
 

@@ -5,16 +5,38 @@ namespace ShiftingAlgorithm;
 
 internal static class Shifter
 {
-    internal static T[] Shift<T>(T[] values, int endIndex)
+    private static int Gcd(int a, int b)
     {
-        for (int i = 0; i < endIndex; i++)
+        if (b == 0)
+            return a;
+
+        return Gcd(b, a % b);
+    }
+
+    internal static T[] Shift<T>(T[] values, int rotateTimes)
+    {
+        rotateTimes = rotateTimes % values.Length;
+        int g = Gcd(rotateTimes, values.Length);
+
+        for (int i = 0; i < g; i++)
         {
-            for (int j = 0; j < values.Length - 1; j++)
+            T temp = values[i];
+            int j = i;
+            
+            while(true)
             {
-                T temp = values[j + 1];
-                values[j + 1] = values[j];
-                values[j] = temp;
+                int k = j + rotateTimes;
+                if (k >= values.Length)
+                    k = k - values.Length;
+
+                if (k == i)
+                    break;
+
+                values[j] = values[k];
+                j = k;
             }
+
+            values[j] = temp;
         }
 
         return values;
